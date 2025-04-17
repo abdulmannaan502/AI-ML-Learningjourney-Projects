@@ -29,7 +29,7 @@ This project uses **Logistic Regression** to classify iris flowers into one of t
 - Visualization – Confusion Matrix Heatmap  
 
 ## 📊 MODEL OUTPUTS  
-- **ACCURACY** = `0.8666666666666667` (example)  
+- **ACCURACY** = `1.0` 
 - **CONFUSION MATRIX** =  
 [[10  0  0]
  [ 0  9  0]
