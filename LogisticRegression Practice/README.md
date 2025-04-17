@@ -26,8 +26,6 @@ This project uses **Logistic Regression** to predict whether a student will **pa
 ## 📊 Model Outputs  
 - Sigmoid curve plotted for probability of passing vs. study hours  
 - Decision boundary shown where model switches from fail to pass (typically at 0.5)  
-- **Intercept** = `[model.intercept_]`  
-- **Coefficient** = `[model.coef_]`  
 
 ## 🧠 Notes  
 - Great beginner-friendly project to understand how classification works using logistic regression.  
