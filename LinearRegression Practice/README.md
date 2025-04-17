@@ -7,7 +7,7 @@ This project uses Linear Regression to predict housing prices in Boston using nu
 
 ## 📂 Dataset
 - **Name:** Boston Housing Dataset  
-- **Source:** [Kaggle Boston Housing Dataset](https://www.kaggle.com/datasets/krupadharamshi/bostonhousing) *(Replace with actual link)*  
+- **Source:** [Kaggle Boston Housing Dataset](https://www.kaggle.com/datasets/krupadharamshi/bostonhousing) 
 - **Features Used:**
   - `RM`: Average number of rooms per dwelling
   - `LSTAT`: % lower status of the population
