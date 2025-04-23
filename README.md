@@ -16,4 +16,4 @@ To consistently learn, build, and share projects in AI for 100 days — with the
 
 ---
 
-🔁 **Project updates coming soon...**
+🔁 **You can find the proejcts here all related to AIML**
